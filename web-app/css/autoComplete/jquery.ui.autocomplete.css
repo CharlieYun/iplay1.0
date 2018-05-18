@@ -1,0 +1,42 @@
+/*!
+ * jQuery UI Autocomplete 1.10.2
+ * http://jqueryui.com
+ *
+ * Copyright 2013 jQuery Foundation and other contributors
+ * Released under the MIT license.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Autocomplete#theming
+ */
+.ui-autocomplete {
+	position: absolute;
+	top: 0;
+	left: 0;
+	cursor: default;
+	width:460px;
+	max-height: 200px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	z-index:15000;
+}
+
+.auto_content_img{
+	margin: 0px;
+	display: inline-block;
+	float: left;
+}
+.auto_content_span{
+	display: inline-block;
+	height: 40px;
+	font-size: 14px;
+	font-family: 微软雅黑;
+	color:#333;
+	float: left;
+	line-height: 40px;
+	width:50%;
+	margin-left:5px;
+}
+.ui-helper-hidden-accessible{
+	display:none;
+}
+

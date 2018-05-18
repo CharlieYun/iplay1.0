@@ -1,0 +1,111 @@
+.marketdataTop .mt-one {
+    margin-left: 0px;
+}
+.marketdataTop .mt-two {
+    margin-left: 200px;
+}
+.marketdataTop .mt-three {
+    margin-left: 400px;
+}
+.marketdataTop .mt-four {
+    margin-left: 600px;
+}
+
+.marketdataTop .mt-five {
+    margin-left: 650px;
+}
+
+.marketdataTop .top_header {
+    height: 100%;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.marketdataMiddle .top_header {
+    height: 100%;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.marketdataMiddle .top_header .mtm_seniorsearch {
+	width:1000px;
+}
+
+.marketdataBottom .top_header {
+    height: 100%;
+    margin: 50px auto 0 707px;
+    width: 1000px;
+}
+
+.marketdataMiddle .top_header .header_left {
+    width: 85%;
+}
+
+.marketdataMiddle .top_header .header_right {
+    margin-top: 50px;
+}
+
+.marketdataMiddle .top_header .header_right .hr-font {
+    color: red;
+    font-size: 22px;
+    margin-left: 850px;
+    margin-top: 40px;
+    width: 150px;
+    font-weight:bold;
+}
+
+.histhink_compare_top{
+	 margin-left: -324px;
+}
+
+.histhink_compare_top .top_header {
+    height: 100%;
+    margin: 50px auto 0 707px;
+    width: 1000px;
+}
+
+
+
+
+/** 鍘嗗彶鏅哄簱-浜や簰鍒嗘瀽绛涢�鏍峰紡 **/
+.analysis_search_container .analysis_search_condition{
+	position: relative;
+}
+
+.analysis_search_container .analysis_search_condition .float_check_container{
+	background: #fff none repeat scroll 0 0;
+    border: 1px solid;
+    left: 120px;
+    position: absolute;
+    top: 30px;
+    z-index: 1;
+    width:800px;
+}
+
+.analysis_search_container .analysis_search_condition .float_check_container label{
+	margin: 5px 26px;
+}
+
+.analysis_search_container .selected_condition{
+	border: 1px solid;
+    display: inline-block;
+    padding: 6px;
+    margin:5px;
+}
+.analysis_search_container .selected_condition i{
+	cursor: pointer;
+    margin-left: 5px;
+}
+
+#tableContent th, #tableContent td{
+	min-width: 103px;
+    white-space: nowrap;
+}
+
+#tableContent th.sort{
+	cursor: pointer;
+}
+
+#tableContent th.sort i{
+	margin-left:10px;
+}

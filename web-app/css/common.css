@@ -1,0 +1,63 @@
+.toEditPerson{
+	background: #fff none repeat scroll 0 0;
+    border: 1px solid;
+    right: 10px;
+    position: absolute;
+    top: 60px;
+    z-index: 5;
+    width:495px;
+    height: 220px;
+}
+
+.toEditPerson .head{
+	background-image:url("../images/common/toEditPersonHead.png");
+	height: 38px;
+}
+
+.toEditProject{
+	background: #fff none repeat scroll 0 0;
+    border: 1px solid;
+    
+    position: absolute;
+    /*
+    margin-left: 150px;
+    top: 60px;
+    */
+    z-index: 5;
+    width:660px;
+}
+
+.toEditProject .head{
+	background-image:url("../images/project_head.png");
+	height: 60px;
+}
+
+.toEditProject .footer{
+	background-image:url("../images/project_head.png");
+	height: 60px;
+}
+
+.toEditProject  tr{
+	height: 40px;
+}
+
+.toEditProject .project_line{
+	background-image:url("../images/project_line.png");
+	height: 1px;
+}
+
+.projectDynamicBasicInfoTable{
+	text-align: center;
+	width: 100%;
+	border-collapse:collapse;
+}
+
+.projectDynamicBasicInfoTable th{
+	border:solid 1px #CCCCCC;
+	padding:0;
+}
+
+.projectDynamicBasicInfoTable td{
+	border:solid 1px #CCCCCC;
+	padding:0;
+}
